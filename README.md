@@ -1,4 +1,5 @@
 # rowapp
+aplikacja będzie obsługiwana przez dwa typy użytkowników: trener, sportowcy <br/>
 dane wioślarza: imię, nazwisko, waga, wzrost, strona <br/>
 dzisiejszy trening: data, plan treningu <br/>
 zapis wykonanego treningu: waty, tempo, czas <br/>
